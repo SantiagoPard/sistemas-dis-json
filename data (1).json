@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Carlos",
+        "cedula": 1054123456,
+        "fecha": "24/08/2024",
+        "estatura": 1.75
+    },
+    {
+        "nombre": "Andrés",
+        "cedula": 1054654321,
+        "fecha": "22/08/2024",
+        "estatura": 1.82
+    },
+    {
+        "nombre": "Jorge",
+        "cedula": 1054321098,
+        "fecha": "20/08/2024",
+        "estatura": 1.78
+    },
+    {
+        "nombre": "Ricardo",
+        "cedula": 1054234567,
+        "fecha": "18/08/2024",
+        "estatura": 1.83
+    },
+    {
+        "nombre": "Felipe",
+        "cedula": 1054345678,
+        "fecha": "16/08/2024",
+        "estatura": 1.8
+    }
+]

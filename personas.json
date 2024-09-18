@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Carlos",
+        "cedula": 1054123456,
+        "fecha": "24/08/2024",
+        "estatura": 1.75
+    },
+    {
+        "nombre": "María",
+        "cedula": 1054789012,
+        "fecha": "23/08/2024",
+        "estatura": 1.68
+    },
+    {
+        "nombre": "Andrés",
+        "cedula": 1054654321,
+        "fecha": "22/08/2024",
+        "estatura": 1.82
+    },
+    {
+        "nombre": "Luisa",
+        "cedula": 1054987654,
+        "fecha": "21/08/2024",
+        "estatura": 1.60
+    },
+    {
+        "nombre": "Jorge",
+        "cedula": 1054321098,
+        "fecha": "20/08/2024",
+        "estatura": 1.78
+    },
+    {
+        "nombre": "Sofía",
+        "cedula": 1054456789,
+        "fecha": "19/08/2024",
+        "estatura": 1.65
+    },
+    {
+        "nombre": "Ricardo",
+        "cedula": 1054234567,
+        "fecha": "18/08/2024",
+        "estatura": 1.83
+    },
+    {
+        "nombre": "Laura",
+        "cedula": 1054876543,
+        "fecha": "17/08/2024",
+        "estatura": 1.72
+    },
+    {
+        "nombre": "Felipe",
+        "cedula": 1054345678,
+        "fecha": "16/08/2024",
+        "estatura": 1.80
+    },
+    {
+        "nombre": "Valeria",
+        "cedula": 1054765432,
+        "fecha": "15/08/2024",
+        "estatura": 1.58
+    }
+]
